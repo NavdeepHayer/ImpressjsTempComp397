@@ -83,6 +83,10 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\Game.css" />
+    <Content Include="index.html" />
+    <Content Include="Scripts\Lib\Game.js" />
+    <Content Include="Scripts\Lib\impress.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
